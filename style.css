@@ -1,0 +1,26 @@
+body {
+    text-align:center;
+    background-color: black;
+}
+
+.line {
+    font-family: monospace;
+}
+
+#h {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aqua;
+}
+
+#album {
+    height: 100px;
+    width: 100px;
+}
+
+#music {
+    border-style: solid;
+    border-color: gold;
+    border-width: 2px;
+    padding: 10px;
+    border-radius: 5px;
+}
